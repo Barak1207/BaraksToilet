@@ -31,6 +31,6 @@ if (filter_var($client_ip, FILTER_VALIDATE_IP) && !empty($USER))
       echo $output;
 }
 
-//FUCKING NIGGER OF A SOLUTIONN
+
 //die();
 ?>

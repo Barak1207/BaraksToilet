@@ -1,4 +1,4 @@
-# BaraksToiltet
+# BaraksToilet
 Connect your toilet to the internet using this one simple trick!
 
 Using a Raspberry Pi, a domain name, linear actuator and a camera (optional).
